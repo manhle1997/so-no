@@ -1,0 +1,14 @@
+D:\Manh Le\AppSoNo\SoNo_Data\bin\Debug\net6.0\SoNo_Data.deps.json
+D:\Manh Le\AppSoNo\SoNo_Data\bin\Debug\net6.0\SoNo_Data.runtimeconfig.json
+D:\Manh Le\AppSoNo\SoNo_Data\bin\Debug\net6.0\SoNo_Data.dll
+D:\Manh Le\AppSoNo\SoNo_Data\bin\Debug\net6.0\SoNo_Data.pdb
+D:\Manh Le\AppSoNo\SoNo_Data\obj\Debug\net6.0\SoNo_Data.csproj.AssemblyReference.cache
+D:\Manh Le\AppSoNo\SoNo_Data\obj\Debug\net6.0\SoNo_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Manh Le\AppSoNo\SoNo_Data\obj\Debug\net6.0\SoNo_Data.AssemblyInfoInputs.cache
+D:\Manh Le\AppSoNo\SoNo_Data\obj\Debug\net6.0\SoNo_Data.AssemblyInfo.cs
+D:\Manh Le\AppSoNo\SoNo_Data\obj\Debug\net6.0\SoNo_Data.csproj.CoreCompileInputs.cache
+D:\Manh Le\AppSoNo\SoNo_Data\obj\Debug\net6.0\SoNo_Data.dll
+D:\Manh Le\AppSoNo\SoNo_Data\obj\Debug\net6.0\refint\SoNo_Data.dll
+D:\Manh Le\AppSoNo\SoNo_Data\obj\Debug\net6.0\SoNo_Data.pdb
+D:\Manh Le\AppSoNo\SoNo_Data\obj\Debug\net6.0\SoNo_Data.genruntimeconfig.cache
+D:\Manh Le\AppSoNo\SoNo_Data\obj\Debug\net6.0\ref\SoNo_Data.dll

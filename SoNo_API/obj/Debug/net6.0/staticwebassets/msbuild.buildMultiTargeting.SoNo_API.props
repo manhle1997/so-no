@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SoNo_API.props" />
+</Project>

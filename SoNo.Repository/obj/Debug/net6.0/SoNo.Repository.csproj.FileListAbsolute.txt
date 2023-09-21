@@ -1,0 +1,12 @@
+D:\Manh Le\AppSoNo\SoNo.Repository\bin\Debug\net6.0\SoNo.Repository.deps.json
+D:\Manh Le\AppSoNo\SoNo.Repository\bin\Debug\net6.0\SoNo.Repository.dll
+D:\Manh Le\AppSoNo\SoNo.Repository\bin\Debug\net6.0\SoNo.Repository.pdb
+D:\Manh Le\AppSoNo\SoNo.Repository\obj\Debug\net6.0\SoNo.Repository.csproj.AssemblyReference.cache
+D:\Manh Le\AppSoNo\SoNo.Repository\obj\Debug\net6.0\SoNo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Manh Le\AppSoNo\SoNo.Repository\obj\Debug\net6.0\SoNo.Repository.AssemblyInfoInputs.cache
+D:\Manh Le\AppSoNo\SoNo.Repository\obj\Debug\net6.0\SoNo.Repository.AssemblyInfo.cs
+D:\Manh Le\AppSoNo\SoNo.Repository\obj\Debug\net6.0\SoNo.Repository.csproj.CoreCompileInputs.cache
+D:\Manh Le\AppSoNo\SoNo.Repository\obj\Debug\net6.0\SoNo.Repository.dll
+D:\Manh Le\AppSoNo\SoNo.Repository\obj\Debug\net6.0\refint\SoNo.Repository.dll
+D:\Manh Le\AppSoNo\SoNo.Repository\obj\Debug\net6.0\SoNo.Repository.pdb
+D:\Manh Le\AppSoNo\SoNo.Repository\obj\Debug\net6.0\ref\SoNo.Repository.dll
